@@ -12,7 +12,7 @@ Développeur web junior basé en France · **disponible en 100 % télétravail**
 ### 📌 Projets
 | Projet | En bref |
 |---|---|
-| [**vinted-bot**](https://github.com/Spid0w/vinted-bot) | Surveille Vinted en temps réel, alertes Discord/Telegram, détection des bonnes affaires, tableau de bord en ligne |
+| [**vinted-bot**](https://github.com/b0ulbix/vinted-bot) | Surveille Vinted en temps réel, alertes Discord/Telegram, détection des bonnes affaires, tableau de bord en ligne |
 
 ### 📫 Me contacter
 [LinkedIn](https://www.linkedin.com/in/ethan-vandenbon/) · ethan85vdb@gmail.com
